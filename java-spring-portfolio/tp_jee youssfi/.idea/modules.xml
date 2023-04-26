@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/java  -spring/Tp1_/Tp1_.iml" filepath="$PROJECT_DIR$/java  -spring/Tp1_/Tp1_.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java  -spring/Tp1_injection de dependanes/Tp1_injection_de_dependanes.iml" filepath="$PROJECT_DIR$/java  -spring/Tp1_injection de dependanes/Tp1_injection_de_dependanes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java  -spring/spring injection de dep-maven/spring-injection-de-dep-maven.iml" filepath="$PROJECT_DIR$/java  -spring/spring injection de dep-maven/spring-injection-de-dep-maven.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/tp_jee youssfi.iml" filepath="$PROJECT_DIR$/.idea/tp_jee youssfi.iml" />
+    </modules>
+  </component>
+</project>
