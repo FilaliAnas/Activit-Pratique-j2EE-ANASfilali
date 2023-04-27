@@ -5,7 +5,7 @@
 <br><br><h1 style="border-style: dotted;background-color: pink;color:black" >Afficher les patients:</h2><br><br>
 <img height="400" width="500" src="https://github.com/FilaliAnas/Activit-Pratique-j2EE-ANASfilali/blob/main/Filali-spring-Anas/java-spring-portfolio/patient-mvc/images/indexSearch.png" /><br>
 <h1 style="border-style: dotted;background-color: #f6c8c8;color:black" >Faire la pagination  :</h2><br><br>
-<img height="400" width="500" src="https://github.com/FilaliAnas/Activit-Pratique-j2EE-ANASfilali/blob/main/Filali-spring-Anas/java-spring-portfolio/patient-mvc/images/index.PNG" /><br>
+<img height="400" width="500" src="https://github.com/FilaliAnas/Activit-Pratique-j2EE-ANASfilali/blob/main/Filali-spring-Anas/java-spring-portfolio/patient-mvc/images/index.png" /><br>
 <h1 style="border-style: dotted;background-color: #f6c8c8;color:black" >Ajouter les Patients:</h2><br><br>
 <img height="400" width="500" src="https://github.com/FilaliAnas/Activit-Pratique-j2EE-ANASfilali/blob/main/Filali-spring-Anas/java-spring-portfolio/patient-mvc/images/addpatient.png" /><br>
 <h1 style="border-style: dotted;background-color: #f6c8c8;color:black"> Modifier les Patients:</h2><br><br>
