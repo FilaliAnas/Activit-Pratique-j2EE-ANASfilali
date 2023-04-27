@@ -27,3 +27,37 @@
   </li>
   <li>Migrer de H2 Database vers MySQL</li>
 </ol>
+<h2>Getting Started</h2>
+<h3>Prerequisites</h3>
+<ul>
+  <li>Java 8 or later</li>
+  <li>IntelliJ Ultimate or other IDE</li>
+  <li>MySQL or H2 database</li>
+  <li>Web browser (Chrome, Firefox, Safari, etc.)</li>
+</ul>
+<h3>Installing</h3>
+<ol>
+  <li>Clone this repository to your local machine using <code>git clone https://github.com/your-username/your-project-name.git</code>.</li>
+  <li>Open the project in your IDE.</li>
+  <li>Configure the database settings in <code>application.properties</code> file.</li>
+  <li>Build and run the application.</li>
+</ol>
+<h2>Usage</h2>
+<p>Once the application is up and running, you can access it through a web browser. The following operations are available:</p>
+<ul>
+  <li>Add new patient records.</li>
+  <li>View a list of all patient records.</li>
+  <li>View a specific patient record.</li>
+  <li>Search for patient records based on various criteria.</li>
+  <li>Update an existing patient record.</li>
+  <li>Delete a patient record.</li>
+</ul>
+<h3>Built With</h3>
+<ul>
+  <li>Spring Boot</li>
+  <li>Spring Data JPA</li>
+  <li>Hibernate</li>
+  <li>MySQL or H2 Database</li>
+  <li>Thymeleaf</li>
+  <li>Bootstrap</li>
+</ul>
