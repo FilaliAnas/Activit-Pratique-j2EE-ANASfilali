@@ -24,7 +24,7 @@
 <img height="400" width="500" src="https://github.com/FilaliAnas/Activit-Pratique-j2EE-ANASfilali/blob/main/Filali-spring-Anas/java-spring-portfolio/patient-mvc/images/SearcPatient.PNG" /><br>
 
 <h1 style="border-style: dotted;background-color: pink;color:black" >Supprimer un Patients:</h2><br><br>
-<img height="500" width="400" src="https://github.com/FilaliAnas/Activit-Pratique-j2EE-ANASfilali/blob/main/Filali-spring-Anas/java-spring-portfolio/patient-mvc/images/delete.PNG" /><br>
+<img height="500" width="400" src="https://github.com/FilaliAnas/Activit-Pratique-j2EE-ANASfilali/blob/main/Filali-spring-Anas/java-spring-portfolio/Activit%C3%A9%20Pratique%20N%C2%B03%20%EF%80%BA%20Spring%20MVC%20avec%20Thymeleaf/images/delete.PNG" /><br>
 <h1>Prérequis</h1><br>
 
 <p>Pour exécuter cette application, vous aurez besoin des éléments suivants :</p>
