@@ -37,7 +37,7 @@
 </ul>
 <h3>Installing</h3>
 <ol>
-  <li>Clone this repository to your local machine using <code>git clone https://github.com/your-username/your-project-name.git</code>.</li>
+  <li>Clone this repository to your local machine using <code>git clone </code>.</li>
   <li>Open the project in your IDE.</li>
   <li>Configure the database settings in <code>application.properties</code> file.</li>
   <li>Build and run the application.</li>
