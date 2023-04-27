@@ -39,7 +39,17 @@
 <ol>
 	<li>Clonez le référentiel Git : git clone &lt;url_du_referentiel&gt;</li>
 	<li>Ouvrez une invite de commandes dans le répertoire du projet et exécutez la commande suivante pour compiler l'application : mvn clean install</li>
-	<li>Configurez les informations de la base de données dans le fichier application.properties</li>
+	<li>Configurez les informations de la base de données dans le fichier application.properties :</li>
+	<pre>
+		server.port=8085
+		spring.datasource.url=jdbc:mysql://localhost:3306/hospital-db?createDatabaseIfNotExist=true
+		spring.datasource.username=root
+		spring.datasource.password=
+		spring.jpa.hibernate.ddl-auto=update
+		spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.MariaDBDialect
+		spring.mvc.format.date=yyyy-MM-dd
+		spring.thymeleaf.cache=false
+	</pre>
 	<li>Exécutez l'application avec la commande suivante : mvn spring-boot:run</li>
-	<li>Accédez à l'application en utilisant l'URL suivante : <a href="http://localhost:8080">http://localhost:8080</a></li>
+	<li>Accédez à l'application en utilisant l'URL suivante : <a href="http://localhost:8085">http://localhost:8085</a></li>
 </ol>
