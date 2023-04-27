@@ -1,6 +1,5 @@
 
 <h2>Activité pratique N°2 : JPA Hibernate, Spring Data</h2>
-<p>Vidéo à utiliser comme ressource principale : <a href="https://www.youtube.com/watch?v=KKw2u_5nW7k">https://www.youtube.com/watch?v=KKw2u_5nW7k</a></p>
 <ol>
   <li>Installer IntelliJ Ultimate</li>
   <li>Créer un projet Spring Initializer avec les dépendances JPA, H2, Spring Web et Lombock</li>
