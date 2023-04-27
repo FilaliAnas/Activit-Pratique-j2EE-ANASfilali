@@ -12,7 +12,7 @@
 	</ul>
   
 <br><br><h1 style="border-style: dotted;background-color: pink;color:black" >Afficher les patients:</h2><br><br>
-<img height="400" width="500" src="https://github.com/Filali-spring-Anas/java-spring-portfolio/Activité Pratique N°3  Spring MVC avec Thymeleaf/images/indexSearch.png" /><br>
+<img height="400" width="500" src="https://github.com/FilaliAnas/Activit-Pratique-j2EE-ANASfilali/blob/main/Filali-spring-Anas/java-spring-portfolio/Activit%C3%A9%20Pratique%20N%C2%B03%20%EF%80%BA%20Spring%20MVC%20avec%20Thymeleaf/images/SearcPatient.PNG" /><br>
 <h1 style="border-style: dotted;background-color: #f6c8c8;color:black" >Faire la pagination  :</h2><br><br>
 <img height="400" width="500" src="https://github.com/FilaliAnas/Activit-Pratique-j2EE-ANASfilali/blob/main/Filali-spring-Anas/java-spring-portfolio/java-spring-portfolio/Activité%20Pratique%20N°3%20%20Spring%20MVC%20avec%20Thymeleaf/images/index.png" /><br>
 <h1 style="border-style: dotted;background-color: #f6c8c8;color:black" >Ajouter les Patients:</h2><br><br>
