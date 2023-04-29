@@ -3,7 +3,7 @@
 
 
 <h2 id="introduction">Introduction</h2>
-<p>Activite-Pratique-j2EE to   learn J2EE and Spring frameworks from scratch by building various enterprise-level projects and applications and working on Activite-Pratique ,to develop hands-on experience in building and deploying web applications.</p>
+<p>  J2EE and Spring frameworks from scratch by building various enterprise-level projects and applications and working on Activite-Pratique ,to develop hands-on experience in building and deploying web applications.</p>
 
 <h2 id="technologies-used">Technologies Used</h2>
 <ul>
