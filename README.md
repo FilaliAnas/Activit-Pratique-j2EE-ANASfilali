@@ -15,3 +15,10 @@
   <li>Bootstrap</li>
   <li>Angular</li>
 </ul>
+You can find links to the reports of each practical work down here :
+
+
+| N° TP |                       Titre                       | Lien |
+|:-----:|:-------------------------------------------------:|:----:|
+|   1   | Inversion de contrôle et Injection de dépendances | [🔗](#) |
+|   2   | ORM JPA, Hibernate et Spring Data -hospital | [🔗](#) |
