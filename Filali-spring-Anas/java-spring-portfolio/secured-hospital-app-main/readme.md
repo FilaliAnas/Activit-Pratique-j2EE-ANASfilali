@@ -33,13 +33,13 @@ Ce projet est une application web qui permet de gérer les dossiers des patients
 
 The login page allows users to log in to the application using their username and password.
 
-![Login Page](/images/login.png)
+![Login Page](Filali-spring-Anas/java-spring-portfolio/secured-hospital-app-main/images/login.png)
 
 ### Interface 2: Show All Patients
 
 The "Show All Patients" page displays a list of all patients in the database. Users can view patient details and edit or delete individual records.
 
-![Show All Patients](/images/index.png)
+![Show All Patients](Filali-spring-Anas/java-spring-portfolio/secured-hospital-app-main/images/index.png)
 
 ### Interface 3: Search
 
