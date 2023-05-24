@@ -45,23 +45,23 @@ The "Show All Patients" page displays a list of all patients in the database. Us
 
 The index page also has a search functionnality.
 
-![Show All Patients](/images/indexSearch.png)
+![Show All Patients](Filali-spring-Anas/java-spring-portfolio/secured-hospital-app-main/images/indexSearch.png)
 
 ### Interface 4: Add a New Patient
 
 The "Add a New Patient" page allows users to add a new patient record to the database.
 
-![Add a New Patient](/images/addpatient.png)
+![Add a New Patient](Filali-spring-Anas/java-spring-portfolio/secured-hospital-app-main/images/addpatient.png)
 
 ### Interface 5: Update an Existing Patient
 
 The "Update Patient" page allows users to edit an existing patient record in the database.
 
-![Update an Existing Patient](/images/update.png)
+![Update an Existing Patient](Filali-spring-Anas/java-spring-portfolio/secured-hospital-app-main/images/update.png)
 
 ### Interface 6: Login as normal user
 
 A normal user is not allowed to add , delete or update a patient record.
 
-![Normal user](/images/auth_normal_user.png)
+![Normal user](Filali-spring-Anas/java-spring-portfolio/secured-hospital-app-main/images/auth_normal_user.png)
 
