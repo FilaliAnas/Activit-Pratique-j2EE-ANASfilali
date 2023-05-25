@@ -25,14 +25,12 @@
     <h2 id="technologies">Technologies</h2>
     <p>
         This application is built with the following technologies:
-    </p>
-    
-        <li>Java</li>
-        <li>Spring Boot</li>
-        <li>Spring Data JPA</li>
-        <li>Spring Web MVC</li>
+</p><li>Java</li>
+   <li>Spring Boot</li>
+  <li>Spring Data JPA</li>
+ <li>Spring Web MVC</li>
    
-  <h2 id="usage">Usage</h2>
+ <h2 id="usage">Usage</h2>
     <p>
         The application provides the following functionality:
     </p><ul>
