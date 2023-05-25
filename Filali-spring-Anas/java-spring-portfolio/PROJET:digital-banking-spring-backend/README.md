@@ -1,16 +1,12 @@
 #Bank Account Management Application
-
-
-
-    <h2>Table of Contents</h2>
+<h2>Table of Contents</h2>
     <ul>
         <li><a href="#installation">Installation</a></li>
         <li><a href="#technologies">Technologies</a></li>
         <li><a href="#usage">Usage</a></li>
    
     </ul>
-
-    <h2 id="installation">Installation</h2>
+  <h2 id="installation">Installation</h2>
     <p>
         To run this application, make sure you have <a href="https://www.java.com">Java</a> and
         <a href="https://maven.apache.org">Maven</a> installed on your system. Then, follow these steps:
@@ -28,7 +24,6 @@
     <p>
         The application will be accessible at <a href="http://localhost:8080">http://localhost:8080</a>.
     </p>
-
     <h2 id="technologies">Technologies</h2>
     <p>
         This application is built with the following technologies:
