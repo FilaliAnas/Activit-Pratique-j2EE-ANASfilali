@@ -3,9 +3,7 @@
     <ul>
         <li><a href="#installation">Installation</a></li>
         <li><a href="#technologies">Technologies</a></li>
-        <li><a href="#usage">Usage</a></li>
-   
-    </ul>
+    <li><a href="#usage">Usage</a></li>
  <h2 id="installation">Installation</h2>
     <p>
         To run this application, make sure you have <a href="https://www.java.com">Java</a> and
@@ -28,14 +26,12 @@
     <p>
         This application is built with the following technologies:
     </p>
-    <ul>
+    
         <li>Java</li>
         <li>Spring Boot</li>
         <li>Spring Data JPA</li>
         <li>Spring Web MVC</li>
    
-      
-    </ul>
   <h2 id="usage">Usage</h2>
     <p>
         The application provides the following functionality:
@@ -44,6 +40,5 @@
         <li>Management of savings accounts and current accounts</li>
         <li>Debit and credit operations on accounts</li>
         <li>Retrieval of account information</li>
-  
-    </ul>
+ 
       
