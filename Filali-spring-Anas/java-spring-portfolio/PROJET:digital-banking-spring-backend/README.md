@@ -11,7 +11,7 @@
     </p>
     <ol>
         <li>Clone the repository:<br>
-            <code>git clone https://github.com/your-username/bank-account-management.git</code></li>
+            <code>git clone https://github.com/FILALIANAS/bank-account-management.git</code></li>
         <li>Navigate to the project directory:<br>
             <code>cd bank-account-management</code></li>
         <li>Build the project using Maven:<br>
