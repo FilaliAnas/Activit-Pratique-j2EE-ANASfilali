@@ -6,7 +6,7 @@
         <li><a href="#usage">Usage</a></li>
    
     </ul>
-  <h2 id="installation">Installation</h2>
+ <h2 id="installation">Installation</h2>
     <p>
         To run this application, make sure you have <a href="https://www.java.com">Java</a> and
         <a href="https://maven.apache.org">Maven</a> installed on your system. Then, follow these steps:
@@ -36,12 +36,10 @@
    
       
     </ul>
-
-    <h2 id="usage">Usage</h2>
+  <h2 id="usage">Usage</h2>
     <p>
         The application provides the following functionality:
-    </p>
-    <ul>
+    </p><ul>
         <li>Creation of customer accounts</li>
         <li>Management of savings accounts and current accounts</li>
         <li>Debit and credit operations on accounts</li>
